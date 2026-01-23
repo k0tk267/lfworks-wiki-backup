@@ -2,7 +2,7 @@
 title: LFWorksの社内ドキュメント
 description: 
 published: true
-date: 2026-01-19T05:04:44.319Z
+date: 2026-01-23T01:21:00.017Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-15T10:40:22.159Z
@@ -28,6 +28,7 @@ BitWardenの使用と二段階認証の設定を必須とする。
 （周辺でアカウント乗っ取り事例を多数観測しているので）
 
 BitWardenのOrganizationを作っているので、共有アカウントの情報はすべてそこで管理する。
+とりあえずFamillyプランで十分（月$3ぐらい）
 
 
 ## タスク管理
